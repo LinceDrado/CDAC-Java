@@ -13,9 +13,10 @@ public class StringArray {
 		String[] array1 = {"Welcome", "to", "Java", "Programming"};
 		
 		for(String show : array1) {
-			System.out.print(show + " ");
+			System.out.print(show + "\t");
 		}
 
 	}
 
 }
+
